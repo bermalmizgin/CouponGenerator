@@ -1,0 +1,14 @@
+C:\Users\Mizgin\Cookies\Desktop\KaizenStudy\kupon\CouponGenerator\bin\Debug\netcoreapp3.1\CouponGenerator.exe
+C:\Users\Mizgin\Cookies\Desktop\KaizenStudy\kupon\CouponGenerator\bin\Debug\netcoreapp3.1\CouponGenerator.deps.json
+C:\Users\Mizgin\Cookies\Desktop\KaizenStudy\kupon\CouponGenerator\bin\Debug\netcoreapp3.1\CouponGenerator.runtimeconfig.json
+C:\Users\Mizgin\Cookies\Desktop\KaizenStudy\kupon\CouponGenerator\bin\Debug\netcoreapp3.1\CouponGenerator.runtimeconfig.dev.json
+C:\Users\Mizgin\Cookies\Desktop\KaizenStudy\kupon\CouponGenerator\bin\Debug\netcoreapp3.1\CouponGenerator.dll
+C:\Users\Mizgin\Cookies\Desktop\KaizenStudy\kupon\CouponGenerator\bin\Debug\netcoreapp3.1\CouponGenerator.pdb
+C:\Users\Mizgin\Cookies\Desktop\KaizenStudy\kupon\CouponGenerator\obj\Debug\netcoreapp3.1\CouponGenerator.csproj.AssemblyReference.cache
+C:\Users\Mizgin\Cookies\Desktop\KaizenStudy\kupon\CouponGenerator\obj\Debug\netcoreapp3.1\CouponGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mizgin\Cookies\Desktop\KaizenStudy\kupon\CouponGenerator\obj\Debug\netcoreapp3.1\CouponGenerator.AssemblyInfoInputs.cache
+C:\Users\Mizgin\Cookies\Desktop\KaizenStudy\kupon\CouponGenerator\obj\Debug\netcoreapp3.1\CouponGenerator.AssemblyInfo.cs
+C:\Users\Mizgin\Cookies\Desktop\KaizenStudy\kupon\CouponGenerator\obj\Debug\netcoreapp3.1\CouponGenerator.csproj.CoreCompileInputs.cache
+C:\Users\Mizgin\Cookies\Desktop\KaizenStudy\kupon\CouponGenerator\obj\Debug\netcoreapp3.1\CouponGenerator.dll
+C:\Users\Mizgin\Cookies\Desktop\KaizenStudy\kupon\CouponGenerator\obj\Debug\netcoreapp3.1\CouponGenerator.pdb
+C:\Users\Mizgin\Cookies\Desktop\KaizenStudy\kupon\CouponGenerator\obj\Debug\netcoreapp3.1\CouponGenerator.genruntimeconfig.cache
